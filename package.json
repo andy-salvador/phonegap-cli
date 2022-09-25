@@ -35,10 +35,10 @@
     "colors": "0.6.0-1",
     "configstore": "1.4.0",
     "connect-phonegap": "^0.25.0",
-    "cordova": "^9.0.0",
+    "cordova": "^10.0.0",
     "insight": "^0.10.1",
     "jasmine": "^3.2.0",
-    "minimist": "0.1.0",
+    "minimist": "1.2.6",
     "opener": "1.4.1",
     "opn": "^4.0.2",
     "os-name": "2.0.1",
@@ -47,8 +47,8 @@
     "prompt": "^1.0.0",
     "qrcode-terminal": "0.9.4",
     "request": "^2.88.0",
-    "shelljs": "0.1.4",
-    "update-notifier": "^0.6.0"
+    "shelljs": "0.8.5",
+    "update-notifier": "^6.0.0"
   },
   "devDependencies": {
     "chdir": "0.0.x",
