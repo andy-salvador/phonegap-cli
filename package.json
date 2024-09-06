@@ -31,24 +31,24 @@
     "node": ">=8.0.0"
   },
   "dependencies": {
-    "archiver": "^1.0.0",
+    "archiver": "^5.3.1",
     "colors": "0.6.0-1",
-    "configstore": "1.4.0",
+    "configstore": "3.1.0",
     "connect-phonegap": "^0.25.0",
-    "cordova": "^9.0.0",
-    "insight": "^0.10.1",
+    "cordova": "^12.0.0",
+    "insight": "^0.11.0",
     "jasmine": "^3.2.0",
     "minimist": "0.1.0",
     "opener": "1.4.1",
     "opn": "^4.0.2",
-    "os-name": "2.0.1",
+    "os-name": "3.0.0",
     "phonegap-build": "^1.0.0",
     "pluralize": "0.0.4",
-    "prompt": "^1.0.0",
+    "prompt": "^1.2.0",
     "qrcode-terminal": "0.9.4",
     "request": "^2.88.0",
     "shelljs": "0.1.4",
-    "update-notifier": "^0.6.0"
+    "update-notifier": "^7.3.0"
   },
   "devDependencies": {
     "chdir": "0.0.x",
