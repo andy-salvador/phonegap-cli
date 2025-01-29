@@ -36,7 +36,7 @@
     "configstore": "1.4.0",
     "connect-phonegap": "^0.25.0",
     "cordova": "^9.0.0",
-    "insight": "^0.10.1",
+    "insight": "^0.12.0",
     "jasmine": "^3.2.0",
     "minimist": "0.1.0",
     "opener": "1.4.1",
